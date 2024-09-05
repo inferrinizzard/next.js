@@ -10,9 +10,9 @@ pub fn next_js_special_exports() -> Vc<Vec<RcStr>> {
         [
             "config",
             "middleware",
-            // "runtime",
+            "runtime",
             "revalidate",
-            // "dynamic",
+            "dynamic",
             "dynamicParams",
             "fetchCache",
             "preferredRegion",
